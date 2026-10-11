@@ -15,6 +15,22 @@
     hotelGulzar: 'Hotel Gulzar'
   },
   contacts: {
+    family: {
+      label: {
+        en: 'Family contacts',
+        hi: 'परिवार के संपर्क'
+      },
+      people: [
+        {
+          name: { en: 'Sushant Kumar Dubey', hi: 'श्री सुशांत कुमार दुबे' },
+          number: '+91-9425025656'
+        },
+        {
+          name: { en: 'Niharika Dubey', hi: 'श्रीमती निहारिका दुबे' },
+          number: '+91-8989958989'
+        }
+      ]
+    },
     hotelGulzar: {
       venueId: 'hotelGulzar',
       numbers: ['0761-2421444', '0761-2929444', '+91-9200092220', '+91-9981537373']
@@ -58,7 +74,7 @@
       },
       bride: {
         label: 'वधू का परिवार',
-        parents: ['श्रीमती निहारिका दुबे', 'श्री सुषांत कुमार दुबे']
+        parents: ['श्रीमती निहारिका दुबे', 'श्री सुशांत कुमार दुबे']
       }
     }
   },
@@ -112,7 +128,7 @@
       navVenue: 'स्थान',
       navFamily: 'परिवार',
       introTag: 'प्रेम और आशीर्वाद के साथ',
-      invitationLine: 'दुबे परिवार आपको शादी समारोह का उत्सव मनाने के लिए आमंत्रित करता है।',
+      invitationLine: 'दुबे परिवार आपको विवाह समारोह में सादर आमंत्रित करता है।',
       weddingMeta: '6 दिसंबर 2026 • जबलपुर, मध्य प्रदेश',
       mainNames: 'आदित्य एवं सिद्धिबाला',
       mainSubheading: '',
